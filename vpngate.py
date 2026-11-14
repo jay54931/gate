@@ -58,7 +58,7 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "www.sage.com:443",
+   "www.sage.com:443",
     "www.mastervolt.com:443",
     "www.bis.gov:443",
     "dianomi.com:443",
